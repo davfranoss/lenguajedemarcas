@@ -1,0 +1,21 @@
+
+body{
+
+    background-color:rgb(21, 173, 21);
+    text-align: center;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: black;
+    text-align: center;
+}
+table{
+border: 3px solid black;
+font-family: Arial, Helvetica, sans-serif;
+width: 200px;
+height: 100px;
+}
+.negrotabla{
+background-color: black;
+}
